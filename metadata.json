@@ -1,0 +1,6 @@
+{
+  "name": "Hemali: My Bestie Forever 🎂💗",
+  "description": "A magical, interactive birthday surprise website celebrating Hemali with love, games, friendship contracts, memories, and celebration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
